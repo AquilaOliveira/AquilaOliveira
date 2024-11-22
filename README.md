@@ -1,6 +1,6 @@
 <h2 align="left">Olá! Eu sou o Áquila Oliveira 👋
   <br>🔭 Atualmente estou na graduação de Análise e Desenvolvimento de Sistemas e trabalhando fora da área em paralelo
-  <br>🌱 Estudando C++, HTML, CSS e JavaScript
+  <br>🌱 Estudando C, HTML, CSS e JavaScript
   <br>😄 Pronomes: Ele/Dele</h2>
 
 ###
