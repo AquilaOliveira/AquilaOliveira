@@ -11,7 +11,7 @@ Tenho familiaridade com versionamento de código usando Git e GitHub, o que apli
 
 Estou sempre em busca de novos aprendizados e oportunidades para crescer como desenvolvedor.
 
----
+##
 
 ### Linguagens e Frameworks
 
