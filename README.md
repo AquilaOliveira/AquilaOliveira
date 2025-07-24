@@ -2,9 +2,13 @@
 
 ## Sobre mim
 Atualmente curso Análise e Desenvolvimento de Sistemas no IFSP. Tenho me dedicado a projetos acadêmicos e pessoais, buscando constantemente aprender e evoluir na área de desenvolvimento.
+
 Recentemente, tenho focado meus estudos em Java, explorando seus fundamentos e boas práticas. Desenvolvi uma API RESTful com Flask como parte de um projeto curricular, integrando o backend em Python com um frontend desenvolvido em React.
+
 🗄Possuo experiência com bancos de dados relacionais, especialmente MySQL, além de já ter realizado projetos utilizando C, HTML, CSS e JavaScript.
+
 Tenho familiaridade com versionamento de código usando Git e GitHub, o que aplico em meus projetos para organização e colaboração.
+
 Estou sempre em busca de novos aprendizados e oportunidades para crescer como desenvolvedor.
 
 ###
