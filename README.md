@@ -1,6 +1,6 @@
 # Áquila Matheus de Oliveira
 
-## Sobre mim
+### Sobre mim
 Atualmente curso Análise e Desenvolvimento de Sistemas no IFSP. Tenho me dedicado a projetos acadêmicos e pessoais, buscando constantemente aprender e evoluir na área de desenvolvimento.
 
 Recentemente, tenho focado meus estudos em Java, explorando seus fundamentos e boas práticas. Desenvolvi uma API RESTful com Flask como parte de um projeto curricular, integrando o backend em Python com um frontend desenvolvido em React.
@@ -14,10 +14,6 @@ Estou sempre em busca de novos aprendizados e oportunidades para crescer como de
 ##
 
 ### Linguagens e Frameworks
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWs5cHQydnBuang2MzBndzlmZDdqbWZlbWJ4ZDhwOW5xZGl6MTlnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  />
-
-###
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,mysql,js,html,css,react,git)](https://skillicons.dev)
 
