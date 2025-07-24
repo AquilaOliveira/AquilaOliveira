@@ -15,7 +15,7 @@ Estou sempre em busca de novos aprendizados e oportunidades para crescer como de
 
 ### Linguagens e Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,mysql,js,html,css,react,node,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,mysql,js,html,css,react,nodejs,git)](https://skillicons.dev)
 
 
 ### Conecte-se comigo 
