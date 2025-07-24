@@ -16,9 +16,9 @@
 
 ###
 
-<div style="display: inline_block"><br>
-  [![My Skills](https://skillicons.dev/icons?i=java,python,c,mysql,js,html,css,react,git)](https://skillicons.dev)
-</div>
+
+  [![My Skills(https://skillicons.dev/icons?i=java,python,c,mysql,js,html,css,react,git)](https://skillicons.dev)
+
 
 ###
 
