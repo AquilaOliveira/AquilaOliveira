@@ -5,7 +5,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas no IFSP. Tenho me dedica
 
 Recentemente, tenho focado meus estudos em Java, explorando seus fundamentos e boas práticas. Desenvolvi uma API RESTful com Flask como parte de um projeto curricular, integrando o backend em Python com um frontend desenvolvido em React.
 
-Possuo experiência com bancos de dados relacionais, especialmente MySQL, além de já ter realizado projetos utilizando C++, HTML, CSS e JavaScript.
+Possuo experiência com bancos de dados relacionais, especialmente MySQL, além de já ter realizado projetos utilizando C, HTML, CSS e JavaScript.
 
 Tenho familiaridade com versionamento de código usando Git e GitHub, o que aplico em meus projetos para organização e colaboração.
 
@@ -17,7 +17,7 @@ Estou sempre em busca de novos aprendizados e oportunidades para crescer como de
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWs5cHQydnBuang2MzBndzlmZDdqbWZlbWJ4ZDhwOW5xZGl6MTlnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  />
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c++,mysql,js,html,css,react,nodejs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,mysql,js,html,css,react,nodejs,git)](https://skillicons.dev)
 
 
 ### Conecte-se comigo 
