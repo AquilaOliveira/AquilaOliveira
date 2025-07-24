@@ -1,7 +1,11 @@
-<h2 align="left">Olá! Eu sou o Áquila Oliveira 👋
-  <br>🔭 Atualmente estou na graduação de Análise e Desenvolvimento de Sistemas e trabalhando fora da área em paralelo
-  <br>🌱 Estudando C, HTML, CSS e JavaScript
-  <br>😄 Pronomes: Ele/Dele</h2>
+# Áquila Matheus de Oliveira
+
+## Sobre mim
+Atualmente curso Análise e Desenvolvimento de Sistemas no IFSP. Tenho me dedicado a projetos acadêmicos e pessoais, buscando constantemente aprender e evoluir na área de desenvolvimento.
+Recentemente, tenho focado meus estudos em Java, explorando seus fundamentos e boas práticas. Desenvolvi uma API RESTful com Flask como parte de um projeto curricular, integrando o backend em Python com um frontend desenvolvido em React.
+🗄Possuo experiência com bancos de dados relacionais, especialmente MySQL, além de já ter realizado projetos utilizando C, HTML, CSS e JavaScript.
+Tenho familiaridade com versionamento de código usando Git e GitHub, o que aplico em meus projetos para organização e colaboração.
+Estou sempre em busca de novos aprendizados e oportunidades para crescer como desenvolvedor.
 
 ###
 
@@ -14,6 +18,8 @@
 
 ###
 
+## Conecte-se comigo 
+---
 <div> 
   
   <a href = "https://www.instagram.com/aquila_oliveira__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
