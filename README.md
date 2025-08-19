@@ -17,7 +17,7 @@ Estou sempre em busca de novos aprendizados e oportunidades para crescer como de
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWs5cHQydnBuang2MzBndzlmZDdqbWZlbWJ4ZDhwOW5xZGl6MTlnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  />
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,mysql,js,html,css,react,nodejs,git,vscode,intelij)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,mysql,js,html,css,react,nodejs,git,vscode,intellij)](https://skillicons.dev)
 
 
 ### Conecte-se comigo 
